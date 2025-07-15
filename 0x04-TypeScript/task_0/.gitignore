@@ -3,3 +3,5 @@ node_modules/
 
 # Ignore Webpack build output
 dist/
+
+.DS_Store
